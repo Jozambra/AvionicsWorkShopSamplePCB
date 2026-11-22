@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "7a966aaa-71f8-48c7-b1d0-fb39a0d8a4f5")
+	(paper "A4")
+	(title_block
+		(date "2026-11-18")
+		(rev "1.0")
+		(company "Designed by: JZ")
+		(comment 1 "Verified by: TP")
+		(comment 2 "Property of Arbalest Rocketry ")
+	)
+	(lib_symbols)
+)

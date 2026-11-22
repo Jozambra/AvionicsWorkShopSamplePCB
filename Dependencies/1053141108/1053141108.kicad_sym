@@ -1,0 +1,185 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "1053141108" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at 4.1656 5.3086 0.0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "1053141108" (id 1) (at 4.8006 -11.2014 0.0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "1053141108:CONN_SD-105314-100_08_MOL" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Datasheet" "https://s3.amazonaws.com/snapeda/datasheet/1053141108_Molex.pdf" (id 3) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "DATASHEET_URL" "https://s3.amazonaws.com/snapeda/datasheet/1053141108_Molex.pdf" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "DESCRIPTION" "Nano-Fit Right-Angle Header, Through Hole, 2.50mm Pitch, Dual Row, 8 Circuits, Tin (Sn) Plating, Black, Glow-Wire Capable, Tray" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Molex" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MFR_NAME" "Molex" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MPN" "1053141108" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SOURCE_URL" "https://www.snapeda.com/parts/1053141108/Molex/view-part/" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "1053141108_0_0"
+      (polyline
+        (pts (xy 10.16 0.0) (xy 5.08 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -2.54) (xy 5.08 -2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -5.08) (xy 5.08 -5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -7.62) (xy 5.08 -7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -10.16) (xy 5.08 -10.16)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -12.7) (xy 5.08 -12.7)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -15.24) (xy 5.08 -15.24)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -17.78) (xy 5.08 -17.78)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 0.0) (xy 8.89 0.8382)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -2.54) (xy 8.89 -1.7018)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -5.08) (xy 8.89 -4.2418)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -7.62) (xy 8.89 -6.7818)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -10.16) (xy 8.89 -9.3218)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -12.7) (xy 8.89 -11.8618)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -15.24) (xy 8.89 -14.4018)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -17.78) (xy 8.89 -16.9418)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 0.0) (xy 8.89 -0.8382)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -2.54) (xy 8.89 -3.3782)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -5.08) (xy 8.89 -5.9182)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -7.62) (xy 8.89 -8.4582)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -10.16) (xy 8.89 -10.9982)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -12.7) (xy 8.89 -13.5382)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -15.24) (xy 8.89 -16.0782)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 10.16 -17.78) (xy 8.89 -18.6182)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 5.08 2.54) (xy 5.08 -20.32)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 5.08 -20.32) (xy 12.7 -20.32)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 12.7 -20.32) (xy 12.7 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 12.7 2.54) (xy 5.08 2.54)) (stroke (width 0.1524))
+      )
+      (pin passive line (at 0.0 0.0 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -2.54 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -5.08 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -7.62 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -10.16 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -12.7 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -15.24 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -17.78 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
